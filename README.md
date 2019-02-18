@@ -6,7 +6,7 @@ Meu arquivo de configuração do VIM, vimrc.
 
 ## Uso
 
-Baixe o arquivo vimrc deste repositorio\
+Baixe este repositorio e siga um dos modos a seguir para a instalação.
 
 
 #### Automatico
