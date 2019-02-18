@@ -7,8 +7,22 @@ Meu arquivo de configuração do VIM, vimrc.
 ## Uso
 
 Baixe o arquivo vimrc deste repositorio\
-Copie o conteúdo dele ou sobreescreva movendo para o caminho do seu vimrc localizado em:\
-*~/.vimrc*
+
+
+#### Automatico
+
+Baixe este repositorio e rode o arquivo install.sh com:\
+$ bash install.sh
+
+#### Manual
+
+Copie o arquivo ou sobreescreva movendo para o caminho do seu vimrc localizado em:\
+*~/.vimrc*\
+$ sudo mv vimrc ~/.vimrc\
+$ git clone https://github.com/sickill/vim-monokai\
+$ cd vim-monokai\
+$ cd colors\
+$ sudo mv monokai.vim /usr/share/vim/vim80/colors/
 
 ## Creditos
 
