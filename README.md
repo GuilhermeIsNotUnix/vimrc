@@ -1,8 +1,10 @@
 # vimrc
 
-![Screenshot](Vim.png)\
+![Screenshot](Vim.png)
 
-![Screenshot](VIM Java.png)\
+\
+
+![Screenshot](VIM Java.png)
 
 Meu arquivo de configuração do VIM, vimrc.
 
