@@ -2,9 +2,7 @@
 
 ![Screenshot](Vim.png)
 
-Java Exemplo\
-
-![Screenshot](VIM Java.png)
+![Screenshot2](VIM Java.png)
 
 Meu arquivo de configuração do VIM, vimrc.
 
